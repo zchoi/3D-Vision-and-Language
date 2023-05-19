@@ -2,8 +2,8 @@
 This is a curated list of "3D Vision and Language" research which is maintained by [haonan](https://github.com/zchoi). Watch this repository for the latest updates!
 
 ## 📒Table of Contents
-- [3D Visual Understanding](3D-Visual-Understanding)
-- [3D Dense Captioning](3D-Dense-Captioning)
+- [3D Visual Understanding](#3D-visual-understanding)
+- [3D Dense Captioning](#3D-Dense-Captioning)
 
 
 ## Methods
