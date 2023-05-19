@@ -3,7 +3,7 @@ This is a curated list of "3D Vision and Language" research which is maintained 
 
 ## 📒Table of Contents
 - [3D Visual Understanding](#3D-visual-understanding)
-- [3D Dense Captioning](#3D-Dense-Captioning)
+- [3D Dense Captioning](#3D-dense-captioning)
 
 
 ## Methods
