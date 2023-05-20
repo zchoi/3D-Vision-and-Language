@@ -9,7 +9,7 @@ This is a curated list of "3D Vision and Language" research which is maintained 
 ## Methods
 ### 3D Visual Understanding
 
-* [**ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding**](https://arxiv.org/pdf/2212.05171.pdf) [**Arxiv 2023**] <br>
+* [**ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding**](https://arxiv.org/pdf/2212.05171.pdf) [**CVPR 2023**] <br>
 Le Xue<sup>1†</sup>, Mingfei Gao<sup>1</sup>, Chen Xing<sup>1</sup>, Roberto Mart´ın-Mart´ın<sup>1,2</sup>, Jiajun Wu<sup>3</sup>, Caiming Xiong<sup>1</sup>, Ran Xu<sup>1</sup>, Juan Carlos Niebles<sup>1</sup>, Silvio Savarese<sup>1</sup><br>
 <sup>1</sup>Salesforce Research, Palo Alto, USA, <sup>2</sup>UT Austin, Texas, USA, <sup>3</sup>Stanford University, Stanford, USA
 
