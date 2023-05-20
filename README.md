@@ -6,7 +6,7 @@ This is a curated list of "3D Vision and Language" research which is maintained 
 - [3D Visual Understanding](#3D-visual-understanding)
 - [3D Dense Captioning](#3D-dense-captioning)
 - [3D Cross-Modal Retrieval](#3D-cross-modal-retrieval)
-- [3D Visual QA & Reasoning]((#3d-visual-qa--reasoning))
+- [3D Visual QA and Reasoning]((#3d-visual-qa-and-reasoning))
 - [3D Visual Grounding](#3D-visual-grounding)
 
 ## Methods
@@ -42,7 +42,7 @@ Sijin Chen<sup>1*</sup>, Hongyuan Zhu<sup>2</sup>, Xin Chen<sup>3</sup>, Yinjie 
 Yanglin Feng<sup>1</sup>, Hongyuan Zhu<sup>2</sup>, Dezhong Peng<sup>1,3,4</sup>, Xi Peng1 Peng Hu<sup>1†</sup><br>
 <sup>1</sup>College of Computer Science, Sichuan University, <sup>2</sup>Institute for Infocomm Research (I2R), A*STAR, <sup>3</sup>Sichuan Zhiqian Technology, <sup>4</sup>Chengdu Ruibei Yingte Information Technology
 
-> ### 3D Visual QA & Reasoning
+> ### 3D Visual QA and Reasoning
 * [**3D Concept Learning and Reasoning from Multi-View Images**](https://openaccess.thecvf.com/content/CVPR2023/papers/Hong_3D_Concept_Learning_and_Reasoning_From_Multi-View_Images_CVPR_2023_paper.pdf) [**CVPR 2023**] <br>
 Yining Hong<sup>1</sup>, Chunru Lin<sup>2</sup>, Yilun Du<sup>3</sup>, Zhenfang Chen<sup>5</sup>, Joshua B. Tenenbaum<sup>3</sup>, Chuang Gan<sup>4,5</sup><br>
 <sup>1</sup>UCLA, <sup>2</sup>Shanghai Jiaotong University, <sup>3</sup>MIT CSAIL, <sup>4</sup>UMass Amherst, <sup>5</sup>MIT-IBM Watson AI Lab
