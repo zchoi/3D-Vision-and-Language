@@ -6,7 +6,7 @@ This is a curated list of "3D Vision and Language" research which is maintained 
 - [3D Visual Understanding](#3D-visual-understanding)
 - [3D Dense Captioning](#3D-dense-captioning)
 - [3D Cross-Modal Retrieval](#3D-cross-modal-retrieval)
-- [3D Visual QA & Reasoning](#3D-visual-qa-reasoning)
+- [3D Visual QA & Reasoning](#3D-visual-qa-&-reasoning)
 - [3D Visual Grounding](#3D-visual-grounding)
 
 ## Methods
