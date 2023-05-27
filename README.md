@@ -37,6 +37,13 @@ Runyu Ding<sup>1*</sup>, Jihan Yang<sup>1*</sup>, Chuhui Xue<sup>2</sup>, Wenqin
 Sijin Chen<sup>1*</sup>, Hongyuan Zhu<sup>2</sup>, Xin Chen<sup>3</sup>, Yinjie Lei<sup>4</sup>, Tao Chen<sup>1†</sup>, Gang YU<sup>3</sup><br>
 <sup>1</sup>Fudan University, <sup>2</sup>Institute for Infocomm Research, A<sup>*</sup>STAR, <sup>3</sup>Tencent PCG, <sup>4</sup>Sichuan University
 
+* [**Scan2Cap: Context-aware Dense Captioning in RGB-D Scans**](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scan2Cap_Context-Aware_Dense_Captioning_in_RGB-D_Scans_CVPR_2021_paper.pdf) [**CVPR 2021**] <br>
+Dave Zhenyu Chen<sup>1</sup>, Ali Gholami2<sup>2</sup>, Matthias Nießner<sup>1</sup>, Angel X. Chang<sup>2</sup><br>
+<sup>1</sup>Technical University of Munich, <sup>2</sup>Simon Fraser University
+
+
+
+
 > ### 3D Cross-Modal Retrieval
 * [**RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval**](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_RONO_Robust_Discriminative_Learning_With_Noisy_Labels_for_2D-3D_Cross-Modal_CVPR_2023_paper.pdf) [**CVPR 2023**] <br>
 Yanglin Feng<sup>1</sup>, Hongyuan Zhu<sup>2</sup>, Dezhong Peng<sup>1,3,4</sup>, Xi Peng1 Peng Hu<sup>1†</sup><br>
