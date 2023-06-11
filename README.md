@@ -33,6 +33,13 @@ Le Xue<sup>1†</sup>, Ning Yu<sup>1</sup>, Shu Zhang<sup>1</sup>, Junnan Li<sup
 Runyu Ding<sup>1*</sup>, Jihan Yang<sup>1*</sup>, Chuhui Xue<sup>2</sup>, Wenqing Zhang<sup>2</sup>, Song Bai<sup>2†</sup>, Xiaojuan Qi<sup>1†</sup><br>
 <sup>1</sup>The University of Hong Kong, <sup>2</sup>ByteDance
 
+* [**Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?**](https://openreview.net/pdf?id=8Oun8ZUVe8N) [**ICLR 2023**] <br>
+Runpei Dong<sup>1</sup>, Zekun Qi<sup>1</sup>, Linfeng Zhang<sup>2</sup>, Junbo Zhang<sup>2</sup>, Jianjian Sun<sup>3</sup>, Zheng Ge<sup>4</sup>,
+Li Yi<sup>245†</sup>, Kaisheng Ma<sup>2†</sup><br>
+<sup>1</sup>Xi’an Jiaotong University, <sup>2</sup>Tsinghua University, <sup>3</sup>MEGVII Technology, <sup>4</sup>Shanghai Artificial Intelligence Laboratory, <sup>5</sup>Shanghai Qi Zhi Institute
+
+
+
 > ### 3D Dense Captioning
 * [**End-to-End 3D Dense Captioning with Vote2Cap-DETR**](https://arxiv.org/pdf/2301.02508.pdf) [**CVPR 2023**] <br>
 Sijin Chen<sup>1*</sup>, Hongyuan Zhu<sup>2</sup>, Xin Chen<sup>3</sup>, Yinjie Lei<sup>4</sup>, Tao Chen<sup>1†</sup>, Gang YU<sup>3</sup><br>
