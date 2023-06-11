@@ -52,7 +52,7 @@ Dave Zhenyu Chen<sup>1</sup>, Ali Gholami2<sup>2</sup>, Matthias Nießner<sup>1<
 
 > ### 3D Cross-Modal Retrieval
 * [**RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval**](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_RONO_Robust_Discriminative_Learning_With_Noisy_Labels_for_2D-3D_Cross-Modal_CVPR_2023_paper.pdf) [**CVPR 2023**] <br>
-Yanglin Feng<sup>1</sup>, Hongyuan Zhu<sup>2</sup>, Dezhong Peng<sup>1,3,4</sup>, Xi Peng1 Peng Hu<sup>1†</sup><br>
+Yanglin Feng<sup>1</sup>, Hongyuan Zhu<sup>2</sup>, Dezhong Peng<sup>1,3,4</sup>, Xi Peng<sup>1</sup, Peng Hu<sup>1†</sup><br>
 <sup>1</sup>College of Computer Science, Sichuan University, <sup>2</sup>Institute for Infocomm Research (I2R), A*STAR, <sup>3</sup>Sichuan Zhiqian Technology, <sup>4</sup>Chengdu Ruibei Yingte Information Technology
 
 > ### 3D Visual QA and Reasoning
