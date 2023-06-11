@@ -8,6 +8,7 @@ This is a curated list of "3D Vision and Language" research which is maintained 
 - [3D Cross-Modal Retrieval](#3D-cross-modal-retrieval)
 - [3D Visual QA & Reasoning](#3d-visual-qa-and-reasoning)
 - [3D Visual Grounding](#3D-visual-grounding)
+- [Multi-view Learning](#multi-view-learning)
 
 ## Methods
 
@@ -42,8 +43,6 @@ Dave Zhenyu Chen<sup>1</sup>, Ali Gholami2<sup>2</sup>, Matthias Nießner<sup>1<
 <sup>1</sup>Technical University of Munich, <sup>2</sup>Simon Fraser University
 
 
-
-
 > ### 3D Cross-Modal Retrieval
 * [**RONO: Robust Discriminative Learning with Noisy Labels for 2D-3D Cross-Modal Retrieval**](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_RONO_Robust_Discriminative_Learning_With_Noisy_Labels_for_2D-3D_Cross-Modal_CVPR_2023_paper.pdf) [**CVPR 2023**] <br>
 Yanglin Feng<sup>1</sup>, Hongyuan Zhu<sup>2</sup>, Dezhong Peng<sup>1,3,4</sup>, Xi Peng1 Peng Hu<sup>1†</sup><br>
@@ -59,3 +58,6 @@ Yining Hong<sup>1</sup>, Chunru Lin<sup>2</sup>, Yilun Du<sup>3</sup>, Zhenfang 
 Yanmin Wu<sup>1</sup>, Xinhua Cheng<sup>1</sup>, Renrui Zhang<sup>2,3</sup>, Zesen Cheng<sup>1</sup>, Jian Zhang<sup>1†</sup><br>
 <sup>1</sup>Shenzhen Graduate School, Peking University, <sup>2</sup>The Chinese University of Hong Kong, <sup>3</sup>Shanghai AI Laboratory
 
+> ### Multi-view Learning
+* [**Investigating and Mitigating the Side Effects of Noisy Views in Multi-view Clustering in Practical Scenarios**](https://arxiv.org/pdf/2303.17245.pdf) [**Arxiv 2023**] <br>
+Jie Xu, Gang Niu, Xiaolong Wang, Yazhou Ren, Lei Feng, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
