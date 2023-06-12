@@ -69,7 +69,7 @@ Yanmin Wu<sup>1</sup>, Xinhua Cheng<sup>1</sup>, Renrui Zhang<sup>2,3</sup>, Zes
 * [**Investigating and Mitigating the Side Effects of Noisy Views in Multi-view Clustering in Practical Scenarios**](https://arxiv.org/pdf/2303.17245.pdf) [**Arxiv 2023**] <br>
 Jie Xu, Gang Niu, Xiaolong Wang, Yazhou Ren, Lei Feng, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
 
-* [**Deep Incomplete Multi-View Clustering via Mining Cluster Complementarity**](file:///D:/chrome_download/20856-Article%20Text-24869-1-2-20220628%20(1).pdf) [**AAAI 2022**] <br>
+* [**Deep Incomplete Multi-View Clustering via Mining Cluster Complementarity**](https://ojs.aaai.org/index.php/AAAI/article/view/20856) [**AAAI 2022**] <br>
 Jie Xu<sup>1</sup>, Chao Li<sup>1</sup>, Yazhou Ren<sup>1†</sup>, Liang Peng<sup>1</sup>, Yujie Mo<sup>1</sup>, Xiaoshuang Shi<sup>1†</sup>, Xiaofeng Zhu<sup>12</sup><br>
 <sup>1</sup>UESTC, <sup>2</sup>Shenzhen Institute for Advanced Study, UESTC
 
