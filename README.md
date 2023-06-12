@@ -68,3 +68,15 @@ Yanmin Wu<sup>1</sup>, Xinhua Cheng<sup>1</sup>, Renrui Zhang<sup>2,3</sup>, Zes
 > ### Multi-view Learning
 * [**Investigating and Mitigating the Side Effects of Noisy Views in Multi-view Clustering in Practical Scenarios**](https://arxiv.org/pdf/2303.17245.pdf) [**Arxiv 2023**] <br>
 Jie Xu, Gang Niu, Xiaolong Wang, Yazhou Ren, Lei Feng, Xiaoshuang Shi, Heng Tao Shen, Xiaofeng Zhu
+
+* [**Deep Incomplete Multi-View Clustering via Mining Cluster Complementarity**](file:///D:/chrome_download/20856-Article%20Text-24869-1-2-20220628%20(1).pdf) [**AAAI 2022**] <br>
+Jie Xu<sup>1</sup>, Chao Li<sup>1</sup>, Yazhou Ren<sup>1†</sup>, Liang Peng<sup>1</sup>, Yujie Mo<sup>1</sup>, Xiaoshuang Shi<sup>1†</sup>, Xiaofeng Zhu<sup>12</sup><br>
+<sup>1</sup>UESTC, <sup>2</sup>Shenzhen Institute for Advanced Study, UESTC
+
+* [**Multi-level Feature Learning for Contrastive Multi-view Clustering**](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Level_Feature_Learning_for_Contrastive_Multi-View_Clustering_CVPR_2022_paper.pdf) [**CVPR 2022**] <br>
+Jie Xu<sup>1†</sup>, Huayi Tang<sup>1†</sup>, Yazhou Ren<sup>1</sup>, Liang Peng<sup>1</sup>, Xiaofeng Zhu<sup>12</sup>, Lifang He<sup>3</sup><br>
+<sup>1</sup>UESTC, <sup>2</sup>Shenzhen Institute for Advanced Study, UESTC, <sup>3</sup>Lehigh University
+
+* [**Multi-VAE: Learning Disentangled View-common and View-peculiar Visual Representations for Multi-view Clustering**](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Multi-VAE_Learning_Disentangled_View-Common_and_View-Peculiar_Visual_Representations_for_Multi-View_ICCV_2021_paper.pdf) [**ICCV 2022**] <br>
+Jie Xu<sup>1</sup>, Yazhou Ren<sup>1†</sup>, Huayi Tang<sup>1</sup>, Xiaorong Pu<sup>1</sup>, Xiaofeng Zhu<sup>1</sup>, Ming Zeng<sup>2</sup>, Lifang He<sup>3</sup><br>
+<sup>1</sup>UESTC, <sup>2</sup>CMU, <sup>3</sup>Lehigh University
